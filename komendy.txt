@@ -1,0 +1,5 @@
+usage autoprefixer-cli:
+./node_modules/.bin/autoprefixer-cli -o css/style.css css/style.css
+
+usage html-validate:
+html-validate index.html
