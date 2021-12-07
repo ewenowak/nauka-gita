@@ -1,0 +1,15 @@
+
+body {
+    text-align: center;
+    margin: 0;
+    font-size: 20px;
+}
+
+h2, h3 {
+    font-family: 'Smooch', sans-serif;
+    margin: 10px;
+    font-weight: 500;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+}
