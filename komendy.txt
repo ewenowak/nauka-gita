@@ -1,2 +1,2 @@
 usage html-validate:
-html-validate index.html
+node_module/.bin/html-validate index.html
